@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "colocviu_poo_2018",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "colocviu_poo_2018::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-colocviu_poo_2018-Debug-b796f1712cd6b04e032c.json",
+					"name" : "colocviu_poo_2018",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Andi/CLionProjects/ObjectOrientedProgramming_Lab/ObjectOrientedProgramming_Exam/colocviu_poo_2018/cmake-build-debug",
+		"source" : "C:/Users/Andi/CLionProjects/ObjectOrientedProgramming_Lab/ObjectOrientedProgramming_Exam/colocviu_poo_2018"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
